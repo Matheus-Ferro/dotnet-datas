@@ -1,0 +1,15 @@
+C:\Users\brokencore\projects\dotnet\Datas\bin\Debug\net7.0\Datas.exe
+C:\Users\brokencore\projects\dotnet\Datas\bin\Debug\net7.0\Datas.deps.json
+C:\Users\brokencore\projects\dotnet\Datas\bin\Debug\net7.0\Datas.runtimeconfig.json
+C:\Users\brokencore\projects\dotnet\Datas\bin\Debug\net7.0\Datas.dll
+C:\Users\brokencore\projects\dotnet\Datas\bin\Debug\net7.0\Datas.pdb
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.csproj.AssemblyReference.cache
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.AssemblyInfoInputs.cache
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.AssemblyInfo.cs
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.csproj.CoreCompileInputs.cache
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.dll
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\refint\Datas.dll
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.pdb
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\Datas.genruntimeconfig.cache
+C:\Users\brokencore\projects\dotnet\Datas\obj\Debug\net7.0\ref\Datas.dll
